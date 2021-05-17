@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .contact h2{
   color: tomato;
 }
@@ -9,3 +10,17 @@
 .contact .contact-menu form{
   display: inline-block;
 }
+=======
+h1 {
+  color: tomato
+}
+<<<<<<< HEAD
+.stranger {
+  color: orange
+}
+.name {
+  color: cornflowerblue
+}
+=======
+>>>>>>> a8afb109b61438fc469c133ac86d458065febbb9
+>>>>>>> 11e531ea5a67402f2701368466d4979ac7f7d77a
